@@ -1,3 +1,6 @@
 [submodule "books/diveintopython3"]
 	path = books/diveintopython3
 	url = https://github.com/pcsforeducation/diveintopython3.git
+[submodule "books/python_for_data_analysis"]
+	path = books/python_for_data_analysis
+	url = https://github.com/wesm/pydata-book.git

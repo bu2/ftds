@@ -1,5 +1,5 @@
 [submodule "books/diveintopython3"]
-	path = books/diveintopython3
+	path = books/dive_into_python3
 	url = https://github.com/pcsforeducation/diveintopython3.git
 [submodule "books/python_for_data_analysis"]
 	path = books/python_for_data_analysis

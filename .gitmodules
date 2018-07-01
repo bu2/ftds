@@ -1,0 +1,3 @@
+[submodule "books/diveintopython3"]
+	path = books/diveintopython3
+	url = https://github.com/pcsforeducation/diveintopython3.git
